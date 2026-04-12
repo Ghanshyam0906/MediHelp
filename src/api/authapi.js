@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:3000/api';
+const API_BASE_URL = import.meta.env.VITE_BACKEND_URL;
 
 // Shared error handler translating Axios exceptions to our generic Throw formats
 const handleResponse = (error) => {
