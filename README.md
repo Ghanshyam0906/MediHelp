@@ -1,16 +1,40 @@
-# React + Vite
+# 🏥 MediHelp – Healthcare Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔗 Live Application
+👉 [Visit MediHelp](https://medihelp-omega.vercel.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Description
 
-## React Compiler
+MediHelp is a full-stack Healthcare Management System designed to streamline interactions between patients, doctors, and administrators through a unified digital platform. The application eliminates traditional manual processes by enabling seamless appointment booking, real-time data access, and efficient healthcare service management.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The system provides a centralized solution where users can connect with healthcare professionals, manage medical records, and access services with minimal effort, improving overall accessibility and operational efficiency. Similar healthcare platforms focus on connecting patients with doctors, managing appointments, and providing digital medical services in one place. :contentReference[oaicite:0]{index=0}
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Key Features
+
+- 👨‍⚕️ **Multi-Role System** – Supports Admin, Doctor, and Patient dashboards with role-based access control  
+- 📅 **Appointment Management** – Book, track, and manage appointments in real-time  
+- 🔐 **Secure Authentication** – JWT-based login system ensuring data privacy and protection  
+- 📊 **Dashboard & Analytics** – Real-time insights for doctors and admins  
+- 🌐 **Responsive UI** – Optimized for multiple devices with modern UI/UX  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React (Vite), Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT (JSON Web Token)  
+- **Deployment:** Vercel (Frontend)  
+
+---
+
+## 🎯 Objective
+
+The goal of MediHelp is to build a scalable Healthcare SaaS platform that enhances patient-doctor interaction, reduces administrative workload, and digitizes healthcare workflows for better efficiency and accessibility.
+
+---
