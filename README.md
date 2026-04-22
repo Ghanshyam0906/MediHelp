@@ -9,7 +9,7 @@
 
 MediHelp is a full-stack Healthcare Management System designed to streamline interactions between patients, doctors, and administrators through a unified digital platform. The application eliminates traditional manual processes by enabling seamless appointment booking, real-time data access, and efficient healthcare service management.
 
-The system provides a centralized solution where users can connect with healthcare professionals, manage medical records, and access services with minimal effort, improving overall accessibility and operational efficiency. Similar healthcare platforms focus on connecting patients with doctors, managing appointments, and providing digital medical services in one place. :contentReference[oaicite:0]{index=0}
+The system provides a centralized solution where users can connect with healthcare professionals, manage medical records, and access services with minimal effort, improving overall accessibility and operational efficiency. Similar healthcare platforms focus on connecting patients with doctors, managing appointments, and providing digital medical services in one place .
 
 ---
 
